@@ -22,3 +22,7 @@ https://sparkbyexamples.com/pyspark/install-pyspark-in-jupyter-on-mac-using-home
 
 Install PySpark on Windows:<br /> 
 https://sparkbyexamples.com/pyspark/how-to-install-and-run-pyspark-on-windows/
+
+Refferences:<br />
+- https://app.datacamp.com/learn/courses/introduction-to-pyspark 
+- https://app.datacamp.com/learn/courses/big-data-fundamentals-with-pyspark 
